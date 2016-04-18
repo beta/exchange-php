@@ -9,6 +9,14 @@ Exchange rates are all retrived from [ECB](http://www.ecb.europa.eu/stats/exchan
  - `GET /` returns all the currencies that can be exchanged into CNY.
  - `GET /$currency/$amount` returns the equivalent amount in CNY exchanged from the given currency. For example `GET /JPY/100`.
 
+## Installation
+
+```
+git clone https://github.com/beta/exchange-php.git exchange
+cd exchange
+composer install
+```
+
 ## Credits
 
  - [Fixer.io](http://fixer.io/)
