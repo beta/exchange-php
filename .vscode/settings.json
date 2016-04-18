@@ -1,0 +1,13 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "editor.fontFamily": "Monaco",
+    "editor.fontSize": 13,
+    "editor.lineHeight": 22,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "markdown.styles": [
+        "file:///Users/beta/Dev/vs-code-themes/vs-code-markdown-theme/theme.css",
+        "file:///Users/beta/Dev/vs-code-themes/vs-code-markdown-theme/vs-code.css",
+        "file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/languages/markdown/common/tokens.css"
+    ]
+}

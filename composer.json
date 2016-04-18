@@ -1,0 +1,15 @@
+{
+    "name": "beta/exchange-php",
+    "description": "Backend code of a simple web app for currency exchange.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Beta Kuang",
+            "email": "beta.kuang@gmail.com"
+        }
+    ],
+    "require": {
+        "mikecao/flight": "^1.2"
+    }
+}
