@@ -12,6 +12,8 @@ use \Flight;
 \mb_internal_encoding('UTF-8');
 \mb_http_output('UTF-8');
 
+\header('Access-Control-Allow-Origin: http://beta.github.io');
+
 Flight::route('GET /', function() {
   echo(Exchange::getCurrencyList());
 });
